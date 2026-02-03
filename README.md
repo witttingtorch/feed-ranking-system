@@ -238,5 +238,5 @@ not as a production deployment.
 
 ## Author
 
-Built as a **FAANG-style ranking systems portfolio project**
+Built as a **ranking systems portfolio project**
 focused on decision-making, evaluation, and system ownership.
